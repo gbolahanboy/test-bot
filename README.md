@@ -1,2 +1,2 @@
 # test-bot
-my test bot lol
+my first python bot lol don't laugh i'm new to soon a pro
